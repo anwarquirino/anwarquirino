@@ -65,7 +65,6 @@
 
 ## 📌 Projetos em Destaque
 
-> ⚠️ **Atualize esta seção** com os links reais dos seus repositórios!
 
 <div align="center">
   <a href="https://github.com/anwarquirino/SEU-PROJETO-1">
