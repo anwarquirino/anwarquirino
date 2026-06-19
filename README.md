@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Anwar Quirino 👋</h1>
+<h1 align="center">Olá, eu sou Anwar Quirino</h1>
 
 <p align="center">
   <a href="https://github.com/anwarquirino">
@@ -15,18 +15,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🔭 Desenvolvedor **Full Stack** apaixonado por criar experiências digitais de qualidade
-- 🤖 Curtindo **automação e IA** — n8n, integrações e pipelines de dados
-- 🌱 Sempre explorando novas tecnologias e melhores práticas
-- ⚡ Stack principal: **React/Next.js**, **Node.js** e **Python**
-- 🎯 Foco em código limpo, escalável e bem documentado
-- 📍 Pernambuco, Brasil
+- Desenvolvedor **Full Stack** apaixonado por criar experiências digitais de qualidade
+- Curtindo **automação e IA** — n8n, integrações e pipelines de dados
+- Sempre explorando novas tecnologias e melhores práticas
+- Stack principal: **React/Next.js**, **Node.js** e **Python**
+- Foco em código limpo, escalável e bem documentado
+- Pernambuco, Brasil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwarquirino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/anwarquirino/music-trainer">
@@ -85,7 +85,7 @@
 
 ---
 
-## 📬 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:anwarquirino@gmail.com">
@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <i>⭐ Se algum projeto te ajudou, deixa uma estrela! Significa muito 😊</i>
+  <i>Se algum projeto te ajudou, deixa uma estrela! Significa muito</i>
 </p>
