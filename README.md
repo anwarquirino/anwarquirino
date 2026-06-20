@@ -22,7 +22,7 @@
 - Sempre explorando novas tecnologias e melhores práticas
 - Stack principal: **React/Next.js**, **Node.js** e **Python**
 - Foco em código limpo, escalável e bem documentado
-- Pernambuco, Brasil
+- Alagoas, Brasil
 
 ---
 
