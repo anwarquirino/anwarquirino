@@ -75,11 +75,19 @@
 ## Projetos em Destaque
 
 <div align="center">
+  <a href="https://github.com/anwarquirino/newsbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=newsbot&theme=github_dark" />
+  </a>
   <a href="https://github.com/anwarquirino/music-trainer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=music-trainer&theme=github_dark" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/anwarquirino/discord-bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=discord-bot&theme=github_dark" />
+  </a>
+  <a href="https://github.com/anwarquirino/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=portfolio&theme=github_dark" />
   </a>
 </div>
 
