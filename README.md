@@ -78,16 +78,24 @@
   <a href="https://github.com/anwarquirino/newsbot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=newsbot&theme=github_dark" />
   </a>
-  <a href="https://github.com/anwarquirino/tasks-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=tasks-api&theme=github_dark" />
+  <a href="https://github.com/anwarquirino/newsbot-painel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=newsbot-painel&theme=github_dark" />
   </a>
 </div>
 <div align="center">
+  <a href="https://github.com/anwarquirino/tasks-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=tasks-api&theme=github_dark" />
+  </a>
   <a href="https://github.com/anwarquirino/music-trainer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=music-trainer&theme=github_dark" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/anwarquirino/discord-bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=discord-bot&theme=github_dark" />
+  </a>
+  <a href="https://github.com/anwarquirino/analisador-html">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarquirino&repo=analisador-html&theme=github_dark" />
   </a>
 </div>
 
